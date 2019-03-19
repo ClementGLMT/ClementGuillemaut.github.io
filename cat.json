@@ -45,7 +45,7 @@
   "cat_name": "Mouche",
   "cat_age": "9",
   "cat_mood": "Câlin",
-  "cat_color": "",
+  "cat_color": "Noir",
   "cat_num": "0609268745",
   "cat_height": "27",
   "cat_coat": "Long"
@@ -61,11 +61,11 @@
   "cat_coat": "Doux"
   },
      {
-  "cat_pic": "https://chat-de-race.fr/wp-content/uploads/2017/06/scottishfold-chat-blanc-gris.jpg",
+  "cat_pic": "https://vignette.wikia.nocookie.net/desencyclopedie/images/9/91/Chat_d%C3%A9moniaque-9497.jpg/revision/latest?cb=20100226035049",
   "cat_name": "Jiji",
   "cat_age": "8",
   "cat_mood": "Complètement maboul",
-  "cat_color": "",
+  "cat_color": "Gris",
   "cat_num": "0605863618",
   "cat_height": "30",
   "cat_coat": "Court"
